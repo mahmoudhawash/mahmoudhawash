@@ -15,7 +15,7 @@ Hello, I'm Mahmoud Hawash, A programmer and i like languages like
 * **HTML/CSS/JS**
 
 
-And in my free time i like playing playing old game like commander keen 4 or jazz jackrabbit
+<p>And in my free time i like playing playing old game like commander keen 4 or jazz jackrabbit</p>
 ---
 Reach me
 
