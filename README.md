@@ -1,5 +1,5 @@
 <p align="center">
-  ![Uploading jazz2.gif…]()
+  <img src="https://github.com/mahmoudhawash/mahmoudhawash/blob/main/jazz2.gif?raw=true">
 
   
   <br>
@@ -12,7 +12,7 @@
 
 Hello, I'm Mahmoud Hawash, A programmer and i like languages like
 * **Python**
-* * **HTML/CSS/JS**
+* **HTML/CSS/JS**
 
 
 And in my free time i like playing playing old game like commander keen 4 or jazz jackrabbit
