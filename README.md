@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mahmoudhawash/mahmoudhawash/blob/main/jazz2.gif?raw=true">
+  <img src="jazz2.gif">
 
   
   <br>
