@@ -16,8 +16,8 @@ Hello, I'm Mahmoud Hawash, A programmer and i like languages like
 
 
 <p>And in my free time i like playing playing old game like commander keen 4 or jazz jackrabbit</p>
----
-Reach me
+
+<h2>Reach me</h2>
 
 
 <a href="https://discord.com/users/mahmoudhawash0165"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
