@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/47587102-417d-401b-94e7-3bf845185948](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Fdeathkiller%2Fjazz2&ved=0CBUQjRxqGAoTCKj69tyX0JUDFQAAAAAdAAAAABCiAQ&opi=89978449)" alt="Jazz2">
+  ![Uploading jazz2.gif…]()
+
   
   <br>
   
